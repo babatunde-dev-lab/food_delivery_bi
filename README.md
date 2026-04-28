@@ -48,7 +48,7 @@ High-level KPIs and delivery performance across cities and cuisines.
 
 ![page1](dashboard_screenshots/Page_1.png)
 
-### Page 2 — Restaurant Performance
+### Page 2: Restaurant Performance
 
 Restaurant-level and cuisine-level operational analysis.
 
@@ -60,7 +60,7 @@ Restaurant-level and cuisine-level operational analysis.
 
 ![page2](dashboard_screenshots/Page_2.png)
 
-### Page 3 — Trends & Customer Behaviour
+### Page 3: Trends & Customer Behaviour
 
 Time-series trends, city-level volume and revenue, and customer patterns.
 
